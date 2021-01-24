@@ -1,0 +1,7 @@
+{
+  "name": "camp-lift-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
